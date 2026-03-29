@@ -14,7 +14,7 @@ pip install recel-sdk
 from recel import ReCEL
 
 client = ReCEL()
-risposta = client.chat("Mi sento solo oggi.")
+risposta = client.chat("Ciao")
 print(risposta)
 ```
 
